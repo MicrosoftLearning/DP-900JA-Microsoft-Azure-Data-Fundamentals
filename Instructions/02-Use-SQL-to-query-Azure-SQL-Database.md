@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'ラボ 02: SQL を使用して Azure SQL Database に対してクエリを実行する'
     module: 'モジュール 02: Azure でのリレーショナル データの検証'
