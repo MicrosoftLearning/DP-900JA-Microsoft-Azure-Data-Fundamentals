@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'ラボ 03: 非リレーショナルな Azure Data Services をプロビジョニングする'
     module: 'モジュール 03: Azure のリレーショナル データの詳細を理解する'
