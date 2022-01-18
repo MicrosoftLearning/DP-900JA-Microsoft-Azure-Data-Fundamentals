@@ -1,4 +1,13 @@
-﻿# Microsoft Azure データの基礎
+**Important Notice!**
+
+This repo was replaced by a [new repo](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals.ja-jp) on December 18th 2021. We're making this change to improve the localized version of this content and reduce the delta between English and localized content updates. 
+After a short interval, this repo will be archived.
+
+**Contributions**
+
+At this time, we are not accepting external contributions to this repo. If you have suggestions or spot any errors, please create a pull request or report an issue on the [new repo](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals.ja-jp).
+
+# Microsoft Azure データの基礎
 
 このリポジトリには、Microsoft のコース [DP-900 Microsoft Azure データの基礎*](https://docs.microsoft.com/ja-jp/learn/certifications/courses/dp-900t00) のハンズオン ラボの演習と、[マイペースで進められる Microsoft Learn のモジュール](https://docs.microsoft.com/ja-jp/users/23110622/collections/0kjyh8rn5gdrjj/)が含まれています。ラボは学習教材に沿って設計されており、教材で説明されているテクノロジを利用して学習できます。 
 
